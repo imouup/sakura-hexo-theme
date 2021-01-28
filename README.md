@@ -1,31 +1,16 @@
-# 主题demo
-[本主题Demo预览](https://blog.42cloud.cn)
-# 使用文档
-- [中文文档&DOCS](https://docs.42cloud.cn/sakura/#/)
+## 本主题由 Mashiro大佬的Sakura主题移植而成
+#### 经过Hojun和xbclub大佬修改
+#### demo （如下图）
+[本主题Demo](https://mouup.top)
+![我是下图](https://cdn.jsdelivr.net/gh/imouup/pic/pic/第一屏.PNG)
+![我还是下图](https://cdn.jsdelivr.net/gh/imouup/pic/pic/第一屏.PNG)
+### 特性（日志）
+2021.1.28
+加入切换主题功能
+默认关闭主页aplayer(主题切换和aplayer会冲突）！正在解决！
+第一屏图片每次刷新自动更换
+内置评论（记得修改Valine ID）
 
-# 更新日志
-  - 2020-4-30
+# 懒得写doc,先看大佬的吧
+- [中文文档&DOCS](https://docs.hojun.cn/sakura/docs/#/home)
 
-    - 增加剪贴板版权信息开关
-
-    - 修复文章页中上一篇和下一篇文章图片不存在情况下一直显示懒加载问题
-
-  - 2020-4-3 （本次更新无需替换配置文件）
-    - 同步hojun/hexo-theme-sakura 更新
-    - 增加全站 灰白模式
-    
-  - 2020-3-14（本次更新无需替换配置文件）
-    
-    - 增加42cloud 全站访问总数量显示
-    
-  - 2020-3-13 （本次更新需要替换主题的_config.yml）
-    - 增加42cloud 阅读计数器
-    - 修改页脚信息支持html标记
-    
-  - 2020-3-9
-    - https replace (同步 honjun/hexo-theme-sakura 更新）
-    - 添加 文章页，首页文章列表，分类，标签等页面未设置特色图时使用主页背景图
-    
-  - 2020-3-8
-    - 修复valine评论功能
-    - 添加 一言 和 网站运行时间
