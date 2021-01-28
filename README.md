@@ -1,15 +1,31 @@
-# sakura-hexo-theme
-sakura的hexo移植版本
-### 修改自Hojun和xbclu大佬版本
-### 修复部分bug,添加切换主题功能（如下图）
+# 主题demo
+[本主题Demo预览](https://blog.42cloud.cn)
+# 使用文档
+- [中文文档&DOCS](https://docs.42cloud.cn/sakura/#/)
 
-![我是下图](https://cdn.jsdelivr.net/gh/imouup/pic/pic/第一屏.PNG)
-![我也是下图](https://cdn.jsdelivr.net/gh/imouup/pic/pic/首页文章栏.PNG)
+# 更新日志
+  - 2020-4-30
 
-### 左下角live2D需自行安装，不包含在主题内
-### 主题内置评论系统，请记得修改Valine ID
-## 注意：aplayer(左下角音乐播放器默认关闭）主题切换器和aplayer不能共存
-## 主页背景图每次刷新调用接口，会展示不同的图片（应该不会重复）
+    - 增加剪贴板版权信息开关
 
-懒得写doc,直接看大佬的吧<https://docs.hojun.cn/sakura/docs/#/home>
-教程也懒得写了<https://yremp.live/hexo-sakura/>
+    - 修复文章页中上一篇和下一篇文章图片不存在情况下一直显示懒加载问题
+
+  - 2020-4-3 （本次更新无需替换配置文件）
+    - 同步hojun/hexo-theme-sakura 更新
+    - 增加全站 灰白模式
+    
+  - 2020-3-14（本次更新无需替换配置文件）
+    
+    - 增加42cloud 全站访问总数量显示
+    
+  - 2020-3-13 （本次更新需要替换主题的_config.yml）
+    - 增加42cloud 阅读计数器
+    - 修改页脚信息支持html标记
+    
+  - 2020-3-9
+    - https replace (同步 honjun/hexo-theme-sakura 更新）
+    - 添加 文章页，首页文章列表，分类，标签等页面未设置特色图时使用主页背景图
+    
+  - 2020-3-8
+    - 修复valine评论功能
+    - 添加 一言 和 网站运行时间
