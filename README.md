@@ -9,3 +9,6 @@ sakura的hexo移植版本
 ### 左下角live2D需自行安装，不包含在主题内
 ### 主题内置评论系统，请记得修改Valine ID
 ## 注意：aplayer(左下角音乐播放器默认关闭）主题切换器和aplayer不能共存
+
+懒得写doc,直接看大佬的吧<https://docs.hojun.cn/sakura/docs/#/home>
+教程也懒得写了<https://yremp.live/hexo-sakura/>
