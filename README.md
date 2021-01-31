@@ -5,6 +5,12 @@
 ![我是下图](https://cdn.jsdelivr.net/gh/imouup/pic/pic/第一屏.PNG)
 ![我还是下图](https://cdn.jsdelivr.net/gh/imouup/pic/pic/首页文章栏.PNG)
 ### 特性（日志）
+2021.1.31
+#### 修复aplayer和切换主题无法共存的问题
+#### 加入樱花掉落动画
+#### 加入背景彩条动画
+#### 加入鼠标点击效果（❤）
+#### 修复番组功能
 2021.1.28
 #### 加入切换主题功能
 #### 默认关闭主页aplayer(主题切换和aplayer会冲突）！正在解决！
