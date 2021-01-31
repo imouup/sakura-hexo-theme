@@ -43,7 +43,7 @@ menus:
   } }
   #客户端: { path: /client/, fa: fa-android faa-vertical }
   友人帐: { path: /links/, fa: fa-link faa-shake }
-  RSS: { path: /atom.xml, fa: fa-rss faa-pulse }
+  #RSS: { path: /atom.xml, fa: fa-rss faa-pulse }
 
 #页脚信息
 pagefooter: "&copy 2021Mouup"
@@ -84,7 +84,7 @@ social:
 
 #social  url, img 移动端配置
 msocial:
-  github: {url: http://github.com/xbclub, fa: fa-github, color: 333}
+  github: {url:  http://github.com/imouup, fa: fa-github, color: 333}
 #  weibo: {url: http://weibo.com/mashirozx?is_all=1, fa: fa-weibo, color: dd4b39}
   #qq: {url: https://wpa.qq.com/msgrd?v=3&uin=525255289&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
 
@@ -103,7 +103,7 @@ movies:
   name: vides.mp4
 
 aplayer:
-  switch: false
+  switch: true
   id: 5484942041
   server: netease
   type: playlist
@@ -138,6 +138,12 @@ gray: false
 clipboards: false
 
 dark_mode:
-  enable: true
+  enable: flase
 
-google: G-JDE1PV95L9
+googleAnalytics:
+  enable: true
+  id: G-0FMX7K7FR0
+
+baiduAnalytics:
+  enable: true # 百度分析
+  id: e2618b6872637968aaf29fd295088ecb
