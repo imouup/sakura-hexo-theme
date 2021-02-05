@@ -5,6 +5,8 @@
 ![我是下图](https://cdn.jsdelivr.net/gh/imouup/pic/pic/第一屏.PNG)
 ![我还是下图](https://cdn.jsdelivr.net/gh/imouup/pic/pic/首页文章栏.PNG)
 ### 特性（日志）
+2021.2.5
+#### 修复一些已知问题
 2021.1.31
 #### 修复aplayer和切换主题无法共存的问题
 #### 加入樱花掉落动画
