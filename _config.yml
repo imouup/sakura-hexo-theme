@@ -35,7 +35,8 @@ menus:
     图集: {path: /tags/图集/, fa: fa-photo }
   } }
   留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
-  赞赏: { path: /donate/, fa: fa-heart faa-pulse }
+  #标签: {path: /tags }
+  #赞赏: { path: /donate/, fa: fa-heart faa-pulse }
   关于: { path: /, fa: fa-leaf faa-wrench , submenus: {
     我？: {path: /about/, fa: fa-meetup},
     主题: {path: /theme-sakura/, fa: iconfont icon-sakura },
@@ -89,10 +90,10 @@ msocial:
   #qq: {url: https://wpa.qq.com/msgrd?v=3&uin=525255289&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
 
 donate:
-  switch: false
-  paypal: https://www.paypal.me/
-  #alipay: /img/custom/donate/AliPayQR.jpg
-  #wechat: /img/custom/donate/WeChanQR.jpg
+  switch: true
+  #paypal: https://www.paypal.me/
+  alipay: https://cdn.jsdelivr.net/gh/imouup/pic/pic/微信图片_20210205120713.jpg
+  wechat: https://cdn.jsdelivr.net/gh/imouup/pic/pic/微信图片_20210205120735.jpg
   #wechatSQ: /img/custom/donate/WeChanSQ.jpg
 
 # 视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
